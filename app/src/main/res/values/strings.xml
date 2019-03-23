@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="datepicker" />
+    <string name="date" />
+    <string name="hello_world" />
+    <string name="date_button" />
+</resources>
